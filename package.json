@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.3.19",
-    "react-router-relay": "denvned/react-router-relay#named-components"
+    "react-router-relay": "denvned/react-router-relay#named-components-npm"
   },
   "devDependencies": {
     "babel-cli": "^6.3.17",
